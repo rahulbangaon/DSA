@@ -4,7 +4,7 @@ public class BasicProgram {
     public static void main(String[] args) {
         System.out.println("Hello, this is my first program");
         Scanner sc = new Scanner(System.in);
-        System.out.println("Please Enter a Variable: ");
+        System.out.println("Please Enter a Variable ok sir: ");
         int var = sc.nextInt();
         System.out.println("This is Variable: " + var);
         BasicProgram obj = new BasicProgram();
